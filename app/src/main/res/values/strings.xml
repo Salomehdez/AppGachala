@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiApp</string>
+    <string-array name="hoteles_array">
+        <item>Hotel Paraíso</item>
+        <item>Hotel Oriental</item>
+        <item>Hotel Divisa</item>
+        <item>Hotel El Diamante</item>
+        <item>Hotel Gachalá</item>
+        <item>Hotel Real</item>
+    </string-array>
+</resources>
